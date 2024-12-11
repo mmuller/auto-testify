@@ -1,6 +1,6 @@
 # Automated Testing Project with Selenium and Cucumber
 
-This project is designed to perform automated tests on a website using Selenium WebDriver and Cucumber. The main objective is to validate the login functionality on the SauceDemo website using test data stored in a JSON file.
+This project is designed to perform automated tests on a website using Selenium WebDriver and Cucumber. The main objective is to validate the login functionality on the SauceDemo website using test data stored in a properties file.
 
 ## Requirements
 
