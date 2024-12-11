@@ -34,7 +34,7 @@ If you're using Chrome as the browser, download the correct version of ChromeDri
 ## Project Configuration
 
 ### Test Data Files
-In the src/test/resources/ folder, you’ll find the test_data.json file, which contains valid and invalid user credentials for the tests. 
+In the src/test/resources/ folder, you’ll find the credentials.properties file, which contains valid and invalid user credentials for the tests. 
 
 ### Cucumber Feature Files
 In the src/test/resources/features/ folder, you’ll find .feature files that define the test scenarios.
